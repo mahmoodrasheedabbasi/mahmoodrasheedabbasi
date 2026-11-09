@@ -1,4 +1,4 @@
-# Hi, I'm Mahmood Rasheed 👋
+# Hi, I'm Mahmood Rasheed
 
 <h3 align="center">Software Engineer | Java Backend Developer</h3>
 <h5 align="center">Mehran University of Engineering and Technology, Jamshoro</h5>
