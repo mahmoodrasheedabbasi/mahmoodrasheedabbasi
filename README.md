@@ -1,7 +1,13 @@
-# Hi, I'm Mahmood Rasheed
+# Hi, I'm Mahmood Rasheed | Java Backend Engineer
 
-<h3 align="center">Software Engineer | Java Backend Developer</h3>
-<h5 align="center">Mehran University of Engineering and Technology, Jamshoro</h5>
+<p>
+Software Engineer with hands-on experience in backend development using Java, Spring Boot, Spring MVC, Spring Security, Hibernate, and JPA. Skilled in designing and developing RESTful APIs, database management, data migration, and software testing using JUnit, Mockito, and Postman. Experienced in working with MySQL and PostgreSQL, along with build tools such as Maven and Gradle. Also possesses a foundation in Python, FastAPI, Artificial Intelligence, and Machine Learning. Passionate about building scalable, reliable, and efficient software solutions while continuously expanding technical expertise.
+</p>
+
+
+### Education
+<h4 align="left">BE Software Engineering</h4>
+<h5 align="left">Mehran University of Engineering and Technology</h5>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -15,7 +21,7 @@
 </a>
 </p>
 
-- 💼 Software Engineer at **Blue Stone Innovation**
+- 💼 Software Engineer at **Blue Stone Innovation - Karachi, Pakistan (Dec-2025 to Present)**
 - 🌱 Specializing in **Java, Spring Boot, and Backend Development**.
 - 💻 Experienced in developing RESTful APIs, database management, and backend application development.
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science.
